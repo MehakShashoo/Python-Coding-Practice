@@ -1,0 +1,1 @@
+# Write a program that takes an integer and checks whether it is prime.
